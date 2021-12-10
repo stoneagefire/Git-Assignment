@@ -1,6 +1,6 @@
 # Git-Assignment
-1. You need to create five different files in your git repository and commit them in separate commit (i.e. there will be five commits).
-1.txt
+1. You need to create five different files in your git repository and commit them in separate commit (i.e. there will be five commits).<br>
+1.txt<br>
 Do or do not, there is no try.
 2.txt
 Keep your friends close, but your enemies closer.
